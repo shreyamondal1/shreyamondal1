@@ -6,12 +6,12 @@ I'm a passionate [Your Role/Profession] who loves to [Your Interests/Hobbies]. W
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, R
 - **Frameworks & Libraries:** Numpy, Pandas
 - **Database:** SQL
 - **Tools & DevOps:** Git, LATEX
 - **Industry Knowledge:** Financial Markets, Financial Modeling, Valuation, Financial Statement Analysis
-- **Softwares/Technologies:** Excel, STATA
+- **Softwares/Technologies:** Excel, STATA, Power BI, Tableau
 
 ## 🌱 Currently Learning
 
