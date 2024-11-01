@@ -31,7 +31,7 @@ I'm currently focused on mastering [Current Learning Focus] and exploring [Anoth
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Shreya Mondal](https://www.linkedin.com/in/shreyamondal)
-- **Email:** shreyamondal961@gmail.com
+- **Email:** [Contact](shreyamondal961@gmail.com)
 - **Portfolio:** [shreyamondal1.github.io](https://shreyamondal1.github.io/)
 
 Feel free to explore my repositories, and if you find something interesting or have any questions, don't hesitate to reach out!
