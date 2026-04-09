@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate [Your Role/Profession] who loves to [Your Interests/Hobbies]. With a strong background in [Your Skills], I enjoy [What You Enjoy Doing in Your Field]. I am dedicated to continuous learning and exploring new technologies to solve real-world problems.
+I hold a Bachelor's in Economics and a Master's in Finance, and I'm currently pursuing the IIT Madras BS Degree Program, driven by a belief that continuous learning is one of the most meaningful personal growth challenges one can embrace. My curiosity sits at the intersection of technology and finance - I enjoy acquiring new tools, developing technical skills to implement my ideas, and exploring how data can be used to understand how financial markets move.
 
 ## 🛠️ Technologies & Tools
 
